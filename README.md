@@ -1,4 +1,4 @@
-# base-ai-agent-app
+# Base AI agent app
 
 A command-line AI agent built with Node.js and the OpenAI API that uses a structured **PLAN → ACTION → OBSERVATION → OUTPUT** reasoning loop to answer user queries. It demonstrates basic tool-calling by fetching weather details for Indian cities through a local function the model invokes.
 
